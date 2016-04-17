@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+Gemfile.lock
+_drafts/
+_site/
+.DS_Store
+*.swp
+.ruby-version
+.bundle
+
